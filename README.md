@@ -29,6 +29,16 @@ While SF eviction rates are lower than expected, we’re curious to look at how 
 
 We assume that neighborhoods that have had a huge influx of tech companies have probably seen a spike in eviction rates as landlords try to cash in
 
+### Questions to answer:
+
+Have the yr-over-yr eviction rates increased or decreased since 2010?
+
+What are the leading reasons for evictions?
+
+Which neighborhoods have the highest/lowest eviction rates?
+
+Have big tech companies impacted these rates?
+
 
 
 
