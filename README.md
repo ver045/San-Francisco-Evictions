@@ -25,6 +25,7 @@ That’s 1.2 evictions/day
 
 
 ## Starting Hypothesis
+
 While SF eviction rates are lower than expected, we’re curious to look at how neighborhood rates are influenced by tech companies moving in.
 
 We assume that neighborhoods that have had a huge influx of tech companies have probably seen a spike in eviction rates as landlords try to cash in
@@ -39,6 +40,19 @@ Which neighborhoods have the highest/lowest eviction rates?
 
 Have big tech companies impacted these rates?
 
+## Our Process
+
+Brainstorm hypothesis
+
+Prioritize starting with the cleanest dataset possible, if not, clean data
+
+Determined the goals of our project and what we wanted to learn
+
+Drew out graphs needed to identify trends in our data
+
+Cleaned data in Jupyter Notebook, created graphs
+
+Analyzed the data and notice trends, new findings, etc
 
 
 
