@@ -55,4 +55,12 @@ Cleaned data in Jupyter Notebook, created graphs
 Analyzed the data and notice trends, new findings, etc
 
 
+# Dataset Limitations
+Eviction notices - did not necessarily result in an eviction
+
+Did not have eviction rates, and we could not match to population
+
+Neighborhood designations are from mid-90s
+
+
 
