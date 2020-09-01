@@ -24,3 +24,11 @@ To put that in perspective, that’s less than two-thirds of the state average
 That’s 1.2 evictions/day
 
 
+## Starting Hypothesis
+While SF eviction rates are lower than expected, we’re curious to look at how neighborhood rates are influenced by tech companies moving in.
+
+We assume that neighborhoods that have had a huge influx of tech companies have probably seen a spike in eviction rates as landlords try to cash in
+
+
+
+
