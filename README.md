@@ -32,7 +32,7 @@ We assume that neighborhoods that have had a huge influx of tech companies have 
 
 ### Questions to answer:
 
-Have the yr-over-yr eviction rates increased or decreased since 2010?
+Have the year over year eviction rates increased or decreased since 2010?
 
 What are the leading reasons for evictions?
 
@@ -40,27 +40,31 @@ Which neighborhoods have the highest/lowest eviction rates?
 
 Have big tech companies impacted these rates?
 
-## Our Process
+## Process
 
 Brainstorm hypothesis
 
-Prioritize starting with the cleanest dataset possible, if not, clean data
+Prioritize starting with the cleanest dataset possible, if not, clean the data
 
-Determined the goals of our project and what we wanted to learn
+Determine the goals of our project and what we wanted to learn
 
-Drew out graphs needed to identify trends in our data
+Draw out graphs needed to identify trends in our data
 
-Cleaned data in Jupyter Notebook, created graphs
+Clean data using Python and Pandas in Jupyter Notebook, create graphs and pie charts using Matplotlib
 
-Analyzed the data and notice trends, new findings, etc
+Analyze the data and notice trends, new findings, etc
 
 
 # Dataset Limitations
-Eviction notices - did not necessarily result in an eviction
+Eviction notices - just because a tenant was issued and eviction notice, it did not necessarily result in an eviction. We were unable to get data on the
 
-Did not have eviction rates, and we could not match to population
+number of eviction notices that actually went into effect, as this violates tenant privacy laws, therefore this information is not disclosed to the public.
 
-Neighborhood designations are from mid-90s
+We did not have access to eviction rates, we could not match to population
+
+Neighborhood designations are from mid-90s. Neighborhoods have had name changes, sub-neighborhoods have been added since then, adding new neighborhoods that 
+
+were not reflected in data from previous years.
 
 
 
