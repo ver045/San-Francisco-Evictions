@@ -31,7 +31,7 @@ While SF eviction rates are lower than expected, we’re curious to look at how 
 
 We assume that neighborhoods that have had a huge influx of tech companies have probably seen a spike in eviction rates as landlords try to cash in
 
-### Questions to answer:
+## Questions to answer:
 
 Have the year over year eviction rates increased or decreased since 2010?
 
@@ -56,7 +56,7 @@ Clean data using Python and Pandas in Jupyter Notebook, create graphs and pie ch
 Analyze the data and notice trends, new findings, etc
 
 
-# Dataset Limitations
+## Dataset Limitations
 Eviction notices - just because a tenant was issued and eviction notice, it did not necessarily result in an eviction.
 
 We were unable to get data on the number of eviction notices that actually went into effect, as this violates tenant privacy laws, 
