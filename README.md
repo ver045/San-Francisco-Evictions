@@ -1,7 +1,9 @@
 # San-Francisco-Evictions
+
 Explored correlation between eviction rates and the tech industry from 2009-2019 as the tech industry grew in San Francisco.
 
 ## Initial Assumptions
+
 San Francisco eviction rates are on the rise.
 
 People being kicked out of their home is a significant contributor to our homeless crisis
@@ -9,19 +11,18 @@ People being kicked out of their home is a significant contributor to our homele
 Laws and regulations meant to protect tenant rights have loopholes that are actually being utilized against tenants, resulting in evictions
 
 ## Project Summary
-We were discussing homelessness and wondering if evictions are one of the primary contributors to people ending up on the street. That morphed into a general 
 
-conversation about this assumption that SF evictions are on the rise. 
+We were discussing homelessness and wondering if evictions are one of the primary contributors to people ending up on the street. 
 
-In researching SF eviction data, we noticed that while there are many reasons why a landlord may send someone an eviction notice, all the reasons fall into 2
+That morphed into a general conversation about this assumption that SF evictions are on the rise. 
 
-buckets: Fault of the tenant, and no-fault of the tenant.
+In researching SF eviction data, we noticed that while there are many reasons why a landlord may send someone an eviction notice, 
+
+all the reasons fall into 2 buckets: Fault of the tenant, and no-fault of the tenant.
 
 San Francisco’s data shows that it's less than 2%.
 
-To put that in perspective, that’s less than two-thirds of the state average
-
-That’s 1.2 evictions/day
+To put that in perspective, that’s less than two-thirds of the state average. That’s 1.2 evictions/day
 
 
 ## Starting Hypothesis
@@ -56,9 +57,11 @@ Analyze the data and notice trends, new findings, etc
 
 
 # Dataset Limitations
-Eviction notices - just because a tenant was issued and eviction notice, it did not necessarily result in an eviction. We were unable to get data on the
+Eviction notices - just because a tenant was issued and eviction notice, it did not necessarily result in an eviction.
 
-number of eviction notices that actually went into effect, as this violates tenant privacy laws, therefore this information is not disclosed to the public.
+We were unable to get data on the number of eviction notices that actually went into effect, as this violates tenant privacy laws, 
+
+therefore this information is not disclosed to the public.
 
 We did not have access to eviction rates, we could not match to population
 
