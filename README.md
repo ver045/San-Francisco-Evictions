@@ -62,7 +62,9 @@ number of eviction notices that actually went into effect, as this violates tena
 
 We did not have access to eviction rates, we could not match to population
 
-Neighborhood designations are from mid-90s. Neighborhoods have had name changes, sub-neighborhoods have been added since then, adding new neighborhoods that 
+Neighborhood designations are from mid-90s. Neighborhoods have had name changes, sub-neighborhoods have been added since then, 
+
+adding new neighborhoods that 
 
 were not reflected in data from previous years.
 
